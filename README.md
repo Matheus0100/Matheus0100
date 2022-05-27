@@ -32,9 +32,9 @@ Objetivo:
 
 Cursando atualmente: 
 
- - Técnico em Mecânica - Instituto Federal do Espírito Santo (IFES).
- - Programação Back-End (C#, DotNet, SQLServer, Git e GitHub) na instituição Senai-SP.
- - Bootcamp Santander 2022 (Java, Javascript e Angular.js) - Digital Innovation One (DIO)
+ - Técnico em Mecânica - Instituto Federal do Espírito Santo (IFES). (2019 - 2022)
+ - Programação Back-End (C#, DotNet, SQLServer, Git e GitHub) na instituição Senai-SP. (2022 - 2022)
+ - Bootcamp Santander 2022 (Java, Javascript e Angular.js) - Digital Innovation One (DIO). (2022 - 2022)
 
 <div align="center">
   <a href="https://github.com/Matheus0100">
