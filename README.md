@@ -20,11 +20,7 @@ Por meio desta oportunidade, pude aprender e desenvolver nas mais atuais tecnolo
 - C#
 - DotNet 6
 - SQL Server
-- Java
-- Javascript
-- Angular
-- HTML 5
-- CSS 3
+- Unity 3D
 
 Objetivo:
 
@@ -33,7 +29,7 @@ Objetivo:
 Cursando atualmente: 
 
  - Técnico em Mecânica - Instituto Federal do Espírito Santo (IFES). (2019 - 2022)
- - Programação Back-End (C#, DotNet, SQLServer, Git e GitHub) na instituição Senai-SP. (2022 - 2022)
+ - Programação Back-End (C#, DotNet, SQLServer, Scrum, Git e GitHub) na instituição Senai-SP. (2022 - 2022)
  - Bootcamp Santander 2022 (Java, Javascript e Angular.js) - Digital Innovation One (DIO). (2022 - 2022)
 
 <div align="center">
