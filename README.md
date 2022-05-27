@@ -15,6 +15,7 @@ Por meio desta oportunidade, pude aprender e desenvolver nas mais atuais tecnolo
 
 ##### _Hard-Skills:_
 - Inglês Intermediário
+- Scrum
 - Git e Github
 - C#
 - DotNet 6
