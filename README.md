@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia e futuramente pretendo me tornar um Cientista da C
 
 ##### Experiência Profissional:
 
- - Estágio VALE/FACTO/IFES - (02/2019 - 12/2020).
+ - Estágio VALE/FACTO/IFES - (02/2020 - 12/2021).
  
  Desenvolver Aplicações utilizando C# e Unity 3D,
  
@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia e futuramente pretendo me tornar um Cientista da C
 
 ##### Certificados:
  - Programação Back-End (C#, DotNet, SQLServer, Scrum, Git e GitHub) - instituição Senai-SP. (02/2022 - 09/2022)
- - Modelagem 3D para Realidade Virtual e Aumentada - IFES - Campus Vitória (2018)
+ - Modelagem 3D para Realidade Virtual e Aumentada - IFES - Campus Vitória (2019)
 
 ##### Artigos:
  - https://ieeexplore.ieee.org/abstract/document/9262645
