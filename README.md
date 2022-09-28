@@ -1,17 +1,8 @@
-### Olá! Eu me chamo Matheus Moura, sou um futuro Desenvolvedor de Software Fullstack.
+### Olá! Eu me chamo Matheus Moura, sou Desenvolvedor de Software Backend.
 
-#### *Atuo na área de Desenvolvimento de Software em geral, com foco em Back-End.*
+#### *Atuo na área de Desenvolvimento de Software, com foco em Back-End.*
 
-Fui bolsista por 2 anos no Projeto de Iniciação Científica VALE/IFES, onde minhas funções eram: Desenvolver em Realidade Virtual utilizando C# e Unity 3D, Fazer a modelagem de objetos em 3D utilizando 3DSMax.
-
-Por meio desta oportunidade, pude aprender e desenvolver nas mais atuais tecnologias, produzir 02 artigos científicos internacionais e ser apresentador em um Stand na ESX 2021.
-
-##### _Soft-Skills:_
-- Sei trabalhar em equipe e me comunicar bem;
-- Sou criativo;
-- Me adapto facilmente aos ambientes e as pessoas que estão ao redor;
-- Sou proativo e gosto de ajudar as pessoas;
-- Capacidade de aprender e estudar por conta própria;
+Sou apaixonado por tecnologia e futuramente pretendo me tornar um Cientista da Computação :D
 
 ##### _Hard-Skills:_
 - Inglês Intermediário
@@ -22,15 +13,36 @@ Por meio desta oportunidade, pude aprender e desenvolver nas mais atuais tecnolo
 - SQL Server
 - Unity 3D
 
-Objetivo:
+##### Objetivo:
 
- - Me aprimorar profissionalmente, buscando sempre estar atualizado com as novas tecnologias que o mercado demanda.
+ - Estou em busca de uma vaga de Estágio/Trainee/Jr. em Desenvolvimento Backend C# / .Net.
 
-Cursando atualmente: 
+##### Experiência Profissional:
 
- - Técnico em Mecânica - Instituto Federal do Espírito Santo (IFES). (2019 - 2022)
- - Programação Back-End (C#, DotNet, SQLServer, Scrum, Git e GitHub) na instituição Senai-SP. (2022 - 2022)
- - Bootcamp Santander 2022 (Java, Javascript e Angular.js) - Digital Innovation One (DIO). (2022 - 2022)
+ - Estágio VALE/FACTO/IFES - (02/2019 - 12/2020).
+ 
+ Desenvolver Aplicações utilizando C# e Unity 3D,
+ 
+ Modelagem de Objetos 3D com 3DSmax,
+ 
+ Produção de relatórios,
+ 
+ Produção de artigos científicos,
+ 
+ Participação em eventos e feiras de tecnologia.
+
+##### Cursando atualmente: 
+
+ - Técnico em Mecânica - Instituto Federal do Espírito Santo - Campus Vitória . (2019 - 2022)
+ - Bootcamp Pottencial .Net Developer (Java, Javascript e Angular.js) - Digital Innovation One (DIO). (09/2022 - 11/2022)
+
+##### Certificados:
+ - Programação Back-End (C#, DotNet, SQLServer, Scrum, Git e GitHub) - instituição Senai-SP. (02/2022 - 09/2022)
+ - Modelagem 3D para Realidade Virtual e Aumentada - IFES - Campus Vitória (2018)
+
+##### Artigos:
+ - https://ieeexplore.ieee.org/abstract/document/9262645
+ - https://dl.acm.org/doi/abs/10.1145/3488162.3488209
 
 <div align="center">
   <a href="https://github.com/Matheus0100">
