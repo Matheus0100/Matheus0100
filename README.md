@@ -1,8 +1,10 @@
 ### Olá! Eu me chamo Matheus Moura, sou Desenvolvedor de Software Backend.
 
-#### *Atuo na área de Desenvolvimento de Software, com foco em Back-End.*
-
 Sou apaixonado por tecnologia e futuramente pretendo me tornar um Cientista da Computação :D
+
+##### Objetivo:
+
+ - Estou em busca de uma vaga de Estágio/Trainee/Jr. em Desenvolvimento Backend C# / .Net.
 
 ##### _Hard-Skills:_
 - Inglês Intermediário
@@ -12,10 +14,6 @@ Sou apaixonado por tecnologia e futuramente pretendo me tornar um Cientista da C
 - DotNet 6
 - SQL Server
 - Unity 3D
-
-##### Objetivo:
-
- - Estou em busca de uma vaga de Estágio/Trainee/Jr. em Desenvolvimento Backend C# / .Net.
 
 ##### Experiência Profissional:
 
