@@ -14,6 +14,9 @@ Sou apaixonado por tecnologia e estou atualmente cursando Ciências da Computaç
 - DotNet 6
 - SQL Server
 - Unity 3D
+- Html
+- Css
+- Javascript
 
 ##### Experiência Profissional:
 
