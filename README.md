@@ -1,10 +1,10 @@
 ### Olá! Eu me chamo Matheus Moura, sou Desenvolvedor de Software Backend.
 
-Sou apaixonado por tecnologia e estou atualmente cursando Ciências da Computação.
+Sou apaixonado por tecnologia e estou atualmente cursando Analise e Desenvolvimento de Sistemas.
 
 ##### Objetivo:
 
- - Estou em busca de uma vaga de Júnior em Desenvolvimento Backend C# / .Net.
+ - Estou em busca de uma vaga de Estágio na minha área de atuação para crescimento profissional.
 
 ##### _Hard-Skills:_
 - Inglês Intermediário
@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia e estou atualmente cursando Ciências da Computaç
 
 ##### Cursando atualmente: 
 
- - Faculdade Uniamérica - Ciências da Computação (2023 - 2026)
+ - Faesa - Analise e Desenvolvimento de Sistemas (2023 - 2025)
 
 ##### Certificados:
  - Programação Back-End (C#, DotNet, SQLServer, Scrum, Git e GitHub) - instituição Senai-SP. (02/2022 - 09/2022)
