@@ -1,17 +1,18 @@
-### Olá! Eu me chamo Matheus Moura, sou Desenvolvedor de Software Backend.
+### Olá! Eu me chamo Matheus Moura, sou Desenvolvedor de Software Fullstack.
 
 Sou apaixonado por tecnologia e estou atualmente cursando Analise e Desenvolvimento de Sistemas.
 
 ##### Objetivo:
 
- - Estou em busca de uma vaga de Estágio na minha área de atuação para crescimento profissional.
+ - Estou em busca de uma oportunidade de emprego na minha área de atuação para crescimento profissional.
 
 ##### _Hard-Skills:_
-- Inglês Intermediário
+- Inglês Avançado
 - Scrum
 - Git e Github
 - C#
-- DotNet 6
+- .Net 7
+- Entity Framework
 - SQL Server
 - Unity 3D
 - Html
@@ -19,6 +20,8 @@ Sou apaixonado por tecnologia e estou atualmente cursando Analise e Desenvolvime
 - Javascript
 
 ##### Experiência Profissional:
+
+ - Estágio Leaf Consultoria e Sistemas - (05/2023 - 03/2024)
 
  - Estágio VALE/FACTO/IFES - (02/2020 - 12/2021).
  
