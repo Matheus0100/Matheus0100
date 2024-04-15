@@ -21,9 +21,17 @@ Sou apaixonado por tecnologia e estou atualmente cursando Analise e Desenvolvime
 
 ##### Experiência Profissional:
 
- - Estágio Leaf Consultoria e Sistemas - (05/2023 - 03/2024)
+ - _Estagiário em Desenvolvimento .Net_ - *Leaf Consultoria e Sistemas* - (05/2023 - 03/2024)
+   
+ Desenvolvimento de diversos softwares utilizando tecnologias como C# e Visual Basic;
 
- - Estágio VALE/FACTO/IFES - (02/2020 - 12/2021).
+ Auxilio no desenvolvimento e manutenção de APIs REST;
+
+ Gerenciamento de bancos de dados relacionais com SQL Server;
+
+ Tomada de decisões estratégicas para a arquitetura de software e design de sistemas.
+
+ - _Iniciação científica em Desenvolvimento Unity 3D_ - *VALE/FACTO/IFES* - (02/2020 - 12/2021).
  
  Desenvolver Aplicações utilizando C# e Unity 3D,
  
